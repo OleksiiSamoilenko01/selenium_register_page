@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
 
-public class experimentJSexecutor extends Basic {
+public class TestJSexecutor extends Basic {
 
     @Test
     public void SuccessLogin() throws InterruptedException {
